@@ -1,0 +1,29 @@
+c:\Users\Michael Sive\Documents\Visual Studio 2012\Projects\AndroidApplication1\AndroidApplication1\bin\Debug\AndroidApplication1.dll
+c:\Users\Michael Sive\Documents\Visual Studio 2012\Projects\AndroidApplication1\AndroidApplication1\bin\Debug\AndroidApplication1.pdb
+c:\Users\Michael Sive\Documents\Visual Studio 2012\Projects\AndroidApplication1\AndroidApplication1\bin\Debug\AndroidApplication1.dll.mdb
+c:\Users\Michael Sive\Documents\Visual Studio 2012\Projects\AndroidApplication1\AndroidApplication1\bin\Debug\AndroidApplication1.AndroidApplication1.apk
+c:\Users\Michael Sive\Documents\Visual Studio 2012\Projects\AndroidApplication1\AndroidApplication1\bin\Debug\AndroidApplication1.AndroidApplication1-Signed.apk
+c:\Users\Michael Sive\Documents\Visual Studio 2012\Projects\AndroidApplication1\AndroidApplication1\obj\Debug\AndroidApplication1.dll
+c:\Users\Michael Sive\Documents\Visual Studio 2012\Projects\AndroidApplication1\AndroidApplication1\obj\Debug\AndroidApplication1.pdb
+c:\Users\Michael Sive\Documents\Visual Studio 2012\Projects\AndroidApplication1\AndroidApplication1\obj\Debug\android\bin\AndroidApplication1.AndroidApplication1.apk
+c:\Users\Michael Sive\Documents\Visual Studio 2012\Projects\AndroidApplication1\AndroidApplication1\obj\Debug\res\layout\main.xml
+c:\Users\Michael Sive\Documents\Visual Studio 2012\Projects\AndroidApplication1\AndroidApplication1\obj\Debug\res\values\strings.xml
+c:\Users\Michael Sive\Documents\Visual Studio 2012\Projects\AndroidApplication1\AndroidApplication1\obj\Debug\res\drawable\icon.png
+c:\Users\Michael Sive\Documents\Visual Studio 2012\Projects\AndroidApplication1\AndroidApplication1\obj\Debug\R.cs.flag
+c:\Users\Michael Sive\Documents\Visual Studio 2012\Projects\AndroidApplication1\AndroidApplication1\obj\Debug\uploadflags.txt
+c:\Users\Michael Sive\Documents\Visual Studio 2012\Projects\AndroidApplication1\AndroidApplication1\obj\Debug\res\drawable\frasiercrane.png
+C:\Users\Michael Sive\Documents\GitHub\VisuWALL\AndroidApplication1\AndroidApplication1\bin\Debug\AndroidApplication1.dll
+C:\Users\Michael Sive\Documents\GitHub\VisuWALL\AndroidApplication1\AndroidApplication1\bin\Debug\AndroidApplication1.pdb
+C:\Users\Michael Sive\Documents\GitHub\VisuWALL\AndroidApplication1\AndroidApplication1\bin\Debug\AndroidApplication1.dll.mdb
+C:\Users\Michael Sive\Documents\GitHub\VisuWALL\AndroidApplication1\AndroidApplication1\bin\Debug\AndroidApplication1.AndroidApplication1.apk
+C:\Users\Michael Sive\Documents\GitHub\VisuWALL\AndroidApplication1\AndroidApplication1\bin\Debug\AndroidApplication1.AndroidApplication1-Signed.apk
+C:\Users\Michael Sive\Documents\GitHub\VisuWALL\AndroidApplication1\AndroidApplication1\obj\Debug\AndroidApplication1.dll
+C:\Users\Michael Sive\Documents\GitHub\VisuWALL\AndroidApplication1\AndroidApplication1\obj\Debug\AndroidApplication1.pdb
+C:\Users\Michael Sive\Documents\GitHub\VisuWALL\AndroidApplication1\AndroidApplication1\obj\Debug\android\bin\AndroidApplication1.AndroidApplication1.apk
+C:\Users\Michael Sive\Documents\GitHub\VisuWALL\AndroidApplication1\AndroidApplication1\obj\Debug\res\layout\main.xml
+C:\Users\Michael Sive\Documents\GitHub\VisuWALL\AndroidApplication1\AndroidApplication1\obj\Debug\res\values\strings.xml
+C:\Users\Michael Sive\Documents\GitHub\VisuWALL\AndroidApplication1\AndroidApplication1\obj\Debug\res\drawable\icon.png
+C:\Users\Michael Sive\Documents\GitHub\VisuWALL\AndroidApplication1\AndroidApplication1\obj\Debug\res\drawable\frasiercrane.png
+C:\Users\Michael Sive\Documents\GitHub\VisuWALL\AndroidApplication1\AndroidApplication1\obj\Debug\R.cs.flag
+C:\Users\Michael Sive\Documents\GitHub\VisuWALL\AndroidApplication1\AndroidApplication1\obj\Debug\uploadflags.txt
+C:\Users\Michael Sive\Documents\GitHub\VisuWALL\AndroidApplication1\AndroidApplication1\obj\Debug\res\layout\layout1.xml

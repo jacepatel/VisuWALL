@@ -1,0 +1,2 @@
+AndroidApplication1.Activity1;androidapplication1.Activity1
+AndroidApplication1.Activity2;androidapplication1.Activity2
